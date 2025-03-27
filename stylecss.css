@@ -1,0 +1,51 @@
+body
+{
+	font-family: Arial;
+	
+}
+.header
+{
+	background-color: darkblue;
+	padding: 30px;
+	text-align: center;
+}
+.sidebar
+{
+	background-color: maroon;
+	width: 25%;
+	height: 300px;
+	float: left;
+}
+.main
+{
+	background-color: darkgreen;
+	width: 75%;
+	height: 300px;
+	float: left;
+	color: white;
+}
+.footer
+{
+	background-color: darkblue;
+	padding: 30px;
+	clear: both;
+	text-align: center;
+}
+.white-center
+{
+	color: white;
+	
+}
+.link
+{
+	padding: 15px;
+	color: blue;
+}
+.link:hover
+{
+	color: white;
+}
+.paragraf
+{
+padding:15px;
+}
